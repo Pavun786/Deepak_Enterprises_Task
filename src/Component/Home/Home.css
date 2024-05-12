@@ -36,6 +36,11 @@
 
 a{
     margin: 10px;
+    
+}
+
+.link{
+    color: blue;
 }
 
 @media all and (max-width : 665px){

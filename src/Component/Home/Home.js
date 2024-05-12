@@ -18,10 +18,10 @@ import '../Home/Home.css'
                  <div className='home-detail'>Sriperumbudur-602105</div>
                  
                  <a href='mailto:admin@deepakenterprises.net.in' target='_blank'>
-                <EmailIcon/>
+                <EmailIcon className="link"/>
                  </a>
 
-                 <a href='https://www.deepakenterprises.net.in' target='_blank'><PublicIcon/></a>
+                 <a href='https://www.deepakenterprises.net.in' target='_blank'><PublicIcon className="link"/></a>
             </div>
             
 
