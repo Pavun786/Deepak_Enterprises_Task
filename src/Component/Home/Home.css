@@ -1,0 +1,60 @@
+.home-container{
+    display : flex;
+    flex-wrap: wrap;
+    gap : 20px;
+    align-items: center;
+    width: 100%;
+   
+}
+
+.home-sub2{
+   
+    width: 40%;
+}
+
+.home-sub2 div:nth-child(1){
+     font-size: 35px;
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     color: blueviolet;
+     font-weight: bolder;
+}
+
+.home-detail{
+    margin: 10px;
+    font-family: "Prompt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+
+.home-img{
+    height: 300px;
+    object-fit:contain;
+    width: 45%;
+}
+
+a{
+    margin: 10px;
+}
+
+@media all and (max-width : 665px){
+
+    .home-container{
+        display: flex;
+        flex-direction: column;
+        max-width: 640px;
+    }
+
+    .home-detail{
+        text-align: center;
+      
+      
+    }
+
+    .home-sub2{
+        
+        width: 70%;
+    }
+
+}

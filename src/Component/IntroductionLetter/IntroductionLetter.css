@@ -1,0 +1,39 @@
+.intro-container{
+    text-align: left;
+    display: flex;
+    margin: 70px;
+}
+
+.intro-title{
+    font-size: 35px;
+    font-weight: bolder;
+}
+.intro-letter{
+    height: 450px;
+    
+    object-fit: contain;
+}
+.intro-sub2{
+   background-color: aliceblue;
+   padding: 20px;
+   border-radius: 20px;
+}
+
+@media all and (max-width : 1040px){
+  
+    .intro-container{
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .intro-letter{
+        height: 300px;
+        object-fit: contain;
+    }
+
+    .intro-sub2{
+       margin-top: 10px;
+    }
+
+}
