@@ -11,10 +11,10 @@ function Office(){
           <img src={office} className="office-img" />
           
           <div className="office-detail" id="card">
-            <span> DEEPAK ENTERPRISES </span>has it Administrative offic.eat Srtperumbudur,
+            <span> DEEPAK ENTERPRISES </span>has it Administrative office at Sriperumbudur,
             Kancheepuram District with 24 Hrs contact facility. For effective monitoring,
             we have 2 Nos. of Area Managers who operate area wise and each Area
-            manager is provided with Vehide & Mobile for easy movement and quick
+            manager is provided with Vehicle & Mobile for easy movement and quick
             accessibility and safely supervisor. We have a strong IT base, which enables
             quick and correct information on any Data required
             

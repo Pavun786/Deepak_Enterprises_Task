@@ -53,7 +53,7 @@ ul li{
  border-bottom: 1px solid black;
 }
 
-@media all and (max-width : 645px){
+@media all and (max-width : 756px){
 
     nav{
         flex-direction: column;

@@ -14,7 +14,7 @@ import letter from "../../Assets/Intro letter.png"
                 <p>Dear sir,</p>
                 <p>sub: Supply of skilled & unskilled Laborers and Outstanding Services.</p>
                 <p>With globalization, the focus of business has changed and the aim
-                 today Is good quality, at less Cost and timely delivery. Competition has
+                 today is good quality, at less Cost and timely delivery. Competition has
                  become so severe that all comers are cut to reduce cost and make the final
                  product as cheaper as possible</p>
                  <p>
@@ -26,8 +26,8 @@ import letter from "../../Assets/Intro letter.png"
                  need is maximum two days notice to supply you the type of manpower required. 
                  </p>
                  <p>
-                 we are a registered contractor who are presently operating In the
-                 District of Tiruvallur and Ananthapur Kancheepuram by providing Manpower
+                 we are a registered contractor who are presently operating in the
+                 Districts of Tiruvallur and Ananthapur Kancheepuram by providing Manpower
                  from House keeping to Office staff - (both Sex) to more than 2 companies
                  our clients vary from Automobile, Engineering and Chemical industry and many more
                  </p>
@@ -38,7 +38,7 @@ import letter from "../../Assets/Intro letter.png"
                 of use to you, and mutually benefit. 
                  </p>
                  <div>Looking forward to an opportunity to serve you</div>
-                 <p>Thanking you</p>
+                 <p>Thanking you,</p>
                  <p>Yours faithfully,</p>
                  <div>
                  For DEEPAK ENTERPRISES 

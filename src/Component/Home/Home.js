@@ -1,5 +1,5 @@
 import EmailIcon from '@mui/icons-material/Email';
-import home from "../../Assets/deepak consultancy logo.jpg"
+import home from "../../Assets/deepak_logo.png"
 import PublicIcon from '@mui/icons-material/Public';
 import '../Home/Home.css'
 
@@ -21,7 +21,9 @@ import '../Home/Home.css'
                 <EmailIcon className="link"/>
                  </a>
 
-                 <a href='https://www.deepakenterprises.net.in' target='_blank'><PublicIcon className="link"/></a>
+                 <a href='https://www.deepakenterprises.net.in' target='_blank'>
+                  <PublicIcon className="link"/>
+                  </a>
             </div>
             
 

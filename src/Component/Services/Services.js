@@ -16,7 +16,7 @@ function Services(){
 
     return(
         <>
-        <div className="service-title" id="service">SERVICE</div>
+        <div className="service-title" id="service">OUR SERVICES</div>
         <div className="service-container">
            
           <img src={service} className="service-img" />
@@ -27,7 +27,7 @@ function Services(){
           Resources to suit to the requirements of manufacturing and service
           Industries. we undertake all types of work - be it Housekeeping, ETO, Office,
           Packing, Production Shop Floor or any other as per your requirement.
-          DEEPAK ENTERPRISES provides on contract basis the following Man power- (either Sex) 
+          <span>DEEPAK ENTERPRISES</span> provides on contract basis the following Man power- (either Sex) 
 
           {services.map((dt)=>{
                     return(
